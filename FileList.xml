@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Depth Charge Rack" path="Mods/Depth Charge Rack/FileList.xml" corepackage="false" gameversion="0.14.9.1" steamworkshopid="2293498290" installtime="1606333991">
+  <Item file="Mods/Depth Charge Rack/DepthChargeRack.xml" />
+  <None file="Mods/Depth Charge Rack/Sprites.png" />
+  <None file="Mods/Depth Charge Rack/FileList.xml" />
+</contentpackage>
