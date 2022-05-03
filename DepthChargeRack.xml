@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Items>
   <Item name="Depth Charge Rack" identifier="tuna_depthchargerack" tags="container,depthchargeammocontainer" pickdistance="120" scale="0.5" canflipx="false" canflipy="false">
-    <Sprite texture="Mods/Tunafish/Sprites.png" depth="0.8" sourcerect="0,0,138,345" origin="0.5,0.5" />
+    <Sprite texture="%ModDir%/Sprites.png" depth="0.8" sourcerect="0,0,138,345" origin="0.5,0.5" />
     <ItemContainer hideitems="false" drawinventory="true" capacity="4" slotsperrow="6" itempos="66,-270" iteminterval="0,80" itemrotation="0" canbeselected="true" msg="ItemMsgInteractSelect" containedspritedepth="0.81">
       <GuiFrame relativesize="0.3,0.2" anchor="Center" style="ItemUI" />
       <Containable items="depthchargeammo" />
